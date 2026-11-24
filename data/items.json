@@ -1,0 +1,49 @@
+
+{
+  "games": [
+    {
+      "id": "endfield",
+      "name": "Arknights: Endfield",
+      "icon": "🎮",
+      "description": "เกมแนว RPG และการสร้างโรงงาน"
+    },
+    {
+      "id": "zzz",
+      "name": "Zenless Zone Zero",
+      "icon": "⚡",
+      "description": "เกมแอ็กชัน RPG"
+    },
+    {
+      "id": "minecraft",
+      "name": "Minecraft",
+      "icon": "⛏️",
+      "description": "เกมแนว Sandbox"
+    }
+  ],
+  "platforms": [
+    {
+      "id": "discord",
+      "name": "Discord",
+      "icon": "💬",
+      "description": "แพลตฟอร์มสื่อสารและชุมชน"
+    },
+    {
+      "id": "instagram",
+      "name": "Instagram",
+      "icon": "📷",
+      "description": "แพลตฟอร์มโซเชียลมีเดีย"
+    },
+    {
+      "id": "hoyolab",
+      "name": "HoYoLAB",
+      "icon": "🌐",
+      "description": "ชุมชนผู้เล่นเกม HoYoverse"
+    },
+    {
+      "id": "kahoot",
+      "name": "Kahoot!",
+      "icon": "🧠",
+      "description": "แพลตฟอร์มเกมตอบคำถาม"
+    }
+  ]
+}
